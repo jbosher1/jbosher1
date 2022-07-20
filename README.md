@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jbosher1
-- Computer Science Major at The University of Charlotte.
-- Focusing on AI, and Machine Learning
+- University of North Carolina at Charlotte Alumni
+- Major in Computer Science
+- Always looking for new projects and opportunities. 
 
 <!---
 jbosher1/jbosher1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
